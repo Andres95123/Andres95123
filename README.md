@@ -17,7 +17,7 @@ But I've also worked with : Java, Linux, Docker, Apache Kafka, NoSQL, and a litt
 
 I have a few public repos, but in the shadows... there are probably 50+ private repos.
 
-But, the most special one is for sure : [The Cerberus Project](https://github.com/Andres95123/Proyecto-Cerbero) , An distributed AI infrastructure for detecting wildfires with monitors.
+But, the most special one is for sure : [The Cerberus Project](https://github.com/Andres95123/Proyecto-Cerbero) , a distributed AI infrastructure for detecting wildfires with monitors.
 
 ---
 
