@@ -19,6 +19,9 @@ I've few public repos, but in the shadow... there are probably +50 private repos
 
 But, the most special one is for sure : [The Cerberus Project](https://github.com/Andres95123/Proyecto-Cerbero) , An distributed AI infrastructure for detecting wildfires with monitors.
 
+Working on :
+- A Crunchyroll wrapper extension called OmniRoll on [Edge Store](https://microsoftedge.microsoft.com/addons/detail/crunchyroll-omniroll-%CF%89/dmjimejdkihcjckacmnolnobmogfngfm) and [Firefox](https://addons.mozilla.org/es-ES/firefox/addon/omni-roll/)
+
 Currently Learning :
 - [The Rust Programming Language](https://rust-lang.org/)
 - Vim motions
