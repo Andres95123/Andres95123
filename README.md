@@ -1,23 +1,25 @@
 ## Welcome 🫡
 
-I'm Andrés, an Artificial Inteligence and Data Engineer in Spain.
+I'm Andrés, an Artificial Intelligence and Data Engineer from Spain.
 
-I'm usually looking for learning new things, and I love when ideas become a reality.
+I'm usually looking to learn new things, and I love it when ideas become a reality.
 
-I have been recently working on some deep learning projects, but I also love software arquitecture and a special type of software, compilers.
+I have been recently working on some deep learning projects, but I also love software architecture and a special type of software: compilers.
 
 My main tech stack is :
-- Python : for AI and Data analisis tasks
-- Golang : for CLIs, API RESTs and Micro Services
-- Typescript, React, Astro and Tailwindcss : When HTML, CSS and JS aren't enough
-- SQLite, PostgreSQL : for saving stuff
-- GIT : for colaborative programming
+- Python : for AI and Data analysis tasks
+- Golang : for CLIs, REST APIs and microservices
+- Typescript, React, Astro and Tailwind CSS : When HTML, CSS and JS aren't enough
+- SQLite, PostgreSQL : for storing data
+- Git : for collaborative programming
 
-But I've worked with : Java, Linux, Docker, Apache Kafka, NoSQL, and a little of C/C++
+But I've also worked with : Java, Linux, Docker, Apache Kafka, NoSQL, and a little bit C/C++
 
-I've few public repos, but in the shadow... there are probably +50 private repos.
+I have a few public repos, but in the shadows... there are probably 50+ private repos.
 
 But, the most special one is for sure : [The Cerberus Project](https://github.com/Andres95123/Proyecto-Cerbero) , An distributed AI infrastructure for detecting wildfires with monitors.
+
+---
 
 Working on :
 - A Crunchyroll wrapper extension called OmniRoll on [Edge Store](https://microsoftedge.microsoft.com/addons/detail/crunchyroll-omniroll-%CF%89/dmjimejdkihcjckacmnolnobmogfngfm) and [Firefox](https://addons.mozilla.org/es-ES/firefox/addon/omni-roll/)
